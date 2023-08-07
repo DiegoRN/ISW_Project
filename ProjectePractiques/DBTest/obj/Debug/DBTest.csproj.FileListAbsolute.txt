@@ -1,0 +1,17 @@
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\bin\Debug\DBTest.exe
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\bin\Debug\DBTest.pdb
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\bin\Debug\EntityFramework.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\bin\Debug\GestDepLibrary.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\bin\Debug\GestDepLibrary.pdb
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\bin\Debug\GestDepLibrary.dll.config
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\bin\Debug\EntityFramework.xml
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\obj\Debug\DBTest.csprojAssemblyReference.cache
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\obj\Debug\DBTest.csproj.CopyComplete
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\obj\Debug\DBTest.exe
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\DBTest\obj\Debug\DBTest.pdb
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\DBTest\obj\Debug\DBTest.exe
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\DBTest\obj\Debug\DBTest.pdb

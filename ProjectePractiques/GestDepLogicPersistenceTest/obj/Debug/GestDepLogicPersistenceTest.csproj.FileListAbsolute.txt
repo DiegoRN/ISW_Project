@@ -1,0 +1,27 @@
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\obj\Debug\GestDepLogicPersistenceTest.csprojAssemblyReference.cache
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\obj\Debug\GestDepLogicPersistenceTest.csproj.CoreCompileInputs.cache
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\GestDepLogicDesignTest.dll.config
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\GestDepLogicDesignTest.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\GestDepLogicDesignTest.pdb
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\EntityFramework.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\GestDepLibrary.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\GestDepLibrary.pdb
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\GestDepLibrary.dll.config
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\EntityFramework.xml
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\obj\Debug\GestDepLogicPersistenceTest.csproj.CopyComplete
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\obj\Debug\GestDepLogicDesignTest.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\obj\Debug\GestDepLogicDesignTest.pdb
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\obj\Debug\GestDepLogicDesignTest.dll
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\GestDepLogicPersistenceTest\obj\Debug\GestDepLogicDesignTest.pdb

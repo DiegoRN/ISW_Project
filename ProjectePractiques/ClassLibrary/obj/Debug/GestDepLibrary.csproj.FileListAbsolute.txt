@@ -1,0 +1,14 @@
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\bin\Debug\GestDepLibrary.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\bin\Debug\GestDepLibrary.pdb
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\obj\Debug\GestDepLibrary.csprojAssemblyReference.cache
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\obj\Debug\GestDepLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\obj\Debug\GestDepLibrary.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\obj\Debug\GestDepLibrary.pdb
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\bin\Debug\GestDepLibrary.dll.config
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\ClassLibrary\obj\Debug\GestDepLibrary.csproj.CopyComplete
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\obj\Debug\GestDepLibrary.dll
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\obj\Debug\GestDepLibrary.pdb

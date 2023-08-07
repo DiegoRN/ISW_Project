@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dramo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dramo\\.nuget\\packages"
+    ]
+  }
+}

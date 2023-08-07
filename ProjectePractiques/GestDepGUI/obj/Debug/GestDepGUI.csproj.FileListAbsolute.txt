@@ -1,0 +1,25 @@
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\bin\Debug\GestDepGUI.exe.config
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\bin\Debug\GestDepGUI.exe
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\bin\Debug\GestDepGUI.pdb
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\bin\Debug\EntityFramework.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\bin\Debug\GestDepLibrary.dll
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\bin\Debug\GestDepLibrary.pdb
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\bin\Debug\GestDepLibrary.dll.config
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\bin\Debug\EntityFramework.xml
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.csprojAssemblyReference.cache
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.GestDepApp.resources
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.Properties.Resources.resources
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.csproj.GenerateResource.cache
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.csproj.CoreCompileInputs.cache
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.csproj.CopyComplete
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.exe
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.pdb
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.AfegirUsuari.resources
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.AfegirActivitat.resources
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.InstructorActivitat.resources
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.InscriureUsuari.resources
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.SalesLliures.resources
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.exe
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\GestDepGUI\obj\Debug\GestDepGUI.pdb

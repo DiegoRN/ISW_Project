@@ -1,0 +1,13 @@
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.exe
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.deps.json
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.json
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.dev.json
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.dll
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.pdb
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csprojAssemblyReference.cache
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfo.cs
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.dll
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.pdb
+C:\Users\dramo\Source\Repos\projecteISW\ProjectePractiques\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.genruntimeconfig.cache

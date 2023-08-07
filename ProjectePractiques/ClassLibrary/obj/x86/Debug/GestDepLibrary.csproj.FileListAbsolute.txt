@@ -1,0 +1,12 @@
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\bin\x86\Debug\GestDepLibrary.dll.config
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\bin\x86\Debug\GestDepLibrary.dll
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\bin\x86\Debug\GestDepLibrary.pdb
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\bin\x86\Debug\EntityFramework.dll
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\bin\x86\Debug\EntityFramework.xml
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\obj\x86\Debug\GestDepLibrary.csproj.AssemblyReference.cache
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\obj\x86\Debug\GestDepLibrary.csproj.CoreCompileInputs.cache
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\obj\x86\Debug\GestDepLibrary.csproj.CopyComplete
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\obj\x86\Debug\GestDepLibrary.dll
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ClassLibrary\obj\x86\Debug\GestDepLibrary.pdb

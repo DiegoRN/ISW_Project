@@ -1,0 +1,9 @@
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\HelloWordApp\bin\Debug\HelloWordApp.exe.config
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\HelloWordApp\bin\Debug\HelloWordApp.exe
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\HelloWordApp\bin\Debug\HelloWordApp.pdb
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\HelloWordApp\obj\Debug\HelloWordApp.csprojAssemblyReference.cache
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\HelloWordApp\obj\Debug\HelloWordApp.csproj.CoreCompileInputs.cache
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\HelloWordApp\obj\Debug\HelloWordApp.exe
+C:\Users\dramo\source\repos\projecteISW\ProjectePractiques\HelloWordApp\obj\Debug\HelloWordApp.pdb
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\HelloWordApp\obj\Debug\HelloWordApp.exe
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\HelloWordApp\obj\Debug\HelloWordApp.pdb

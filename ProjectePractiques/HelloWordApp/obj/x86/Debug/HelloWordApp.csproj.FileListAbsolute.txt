@@ -1,0 +1,8 @@
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\HelloWordApp\bin\x86\Debug\HelloWordApp.exe.config
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\HelloWordApp\bin\x86\Debug\HelloWordApp.exe
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\HelloWordApp\bin\x86\Debug\HelloWordApp.pdb
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\HelloWordApp\obj\x86\Debug\HelloWordApp.csproj.AssemblyReference.cache
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\HelloWordApp\obj\x86\Debug\HelloWordApp.csproj.SuggestedBindingRedirects.cache
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\HelloWordApp\obj\x86\Debug\HelloWordApp.csproj.CoreCompileInputs.cache
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\HelloWordApp\obj\x86\Debug\HelloWordApp.exe
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\HelloWordApp\obj\x86\Debug\HelloWordApp.pdb

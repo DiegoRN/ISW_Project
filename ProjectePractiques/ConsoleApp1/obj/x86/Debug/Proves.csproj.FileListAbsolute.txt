@@ -1,0 +1,14 @@
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\bin\x86\Debug\ConsoleApp1.exe.config
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\bin\x86\Debug\ConsoleApp1.exe
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\bin\x86\Debug\ConsoleApp1.pdb
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\bin\x86\Debug\GestDepLibrary.dll
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\bin\x86\Debug\EntityFramework.dll
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\bin\x86\Debug\GestDepLibrary.pdb
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\bin\x86\Debug\GestDepLibrary.dll.config
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\bin\x86\Debug\EntityFramework.xml
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\obj\x86\Debug\Proves.csproj.AssemblyReference.cache
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\obj\x86\Debug\Proves.csproj.SuggestedBindingRedirects.cache
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\obj\x86\Debug\Proves.csproj.CoreCompileInputs.cache
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\obj\x86\Debug\Proves.csproj.CopyComplete
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\obj\x86\Debug\ConsoleApp1.exe
+C:\Escritorio\ING INF\3º ING INF\1 cuatri\ISW\Practiques\projecteISW\ProjectePractiques\ConsoleApp1\obj\x86\Debug\ConsoleApp1.pdb
